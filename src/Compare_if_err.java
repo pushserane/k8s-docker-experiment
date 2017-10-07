@@ -22,6 +22,7 @@ public class Compare_if_err {
 			count ++;
 			System.out.println(tempLine);
 			System.out.println(count);
+			
 		}
 		System.out.println(count);
 		brA.close();
